@@ -1,0 +1,9 @@
+Use the following Quantan Technologies Knowledge Base to answer the customer's query.
+
+KNOWLEDGE BASE CONTEXT:
+{context}
+
+CUSTOMER QUERY:
+{query}
+
+Remember to follow all CORE DIRECTIVES and GUARDRAILS. Provide the final response to the customer below:

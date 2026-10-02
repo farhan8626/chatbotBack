@@ -1,0 +1,602 @@
+[
+    {
+        "faq_id": "FAQ-001",
+        "topic": "Hardware Maintenance",
+        "question": "How do I load paper into the printing kiosk?",
+        "answer": "Open the front panel using the master key, release the printer latch, and insert the 80mm thermal roll ensuring it feeds from underneath."
+    },
+    {
+        "faq_id": "FAQ-002",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 2)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-003",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 3)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-004",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 4)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-005",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 5)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-006",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 6)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-007",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 7)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-008",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 8)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-009",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 9)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-010",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 10)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-011",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 11)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-012",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 12)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-013",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 13)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-014",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 14)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-015",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 15)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-016",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 16)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-017",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 17)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-018",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 18)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-019",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 19)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-020",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 20)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-021",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 21)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-022",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 22)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-023",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 23)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-024",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 24)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-025",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 25)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-026",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 26)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-027",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 27)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-028",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 28)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-029",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 29)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-030",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 30)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-031",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 31)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-032",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 32)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-033",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 33)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-034",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 34)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-035",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 35)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-036",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 36)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-037",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 37)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-038",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 38)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-039",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 39)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-040",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 40)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-041",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 41)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-042",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 42)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-043",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 43)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-044",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 44)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-045",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 45)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-046",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 46)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-047",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 47)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-048",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 48)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-049",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 49)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-050",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 50)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-051",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 51)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-052",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 52)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-053",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 53)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-054",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 54)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-055",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 55)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-056",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 56)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-057",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 57)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-058",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 58)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-059",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 59)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-060",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 60)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-061",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 61)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-062",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 62)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-063",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 63)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-064",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 64)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-065",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 65)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-066",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 66)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-067",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 67)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-068",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 68)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-069",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 69)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-070",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 70)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-071",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 71)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-072",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 72)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-073",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 73)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-074",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 74)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-075",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 75)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-076",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 76)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-077",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 77)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-078",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 78)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-079",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 79)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-080",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 80)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-081",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 81)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-082",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 82)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-083",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 83)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-084",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 84)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-085",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 85)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-086",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 86)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-087",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 87)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-088",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 88)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-089",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 89)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-090",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 90)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-091",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 91)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-092",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 92)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-093",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 93)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-094",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 94)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-095",
+        "topic": "Software Updates",
+        "question": "How do I handle a software updates issue (Scenario 95)?",
+        "answer": "For software updates scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-096",
+        "topic": "Payment Gateway",
+        "question": "How do I handle a payment gateway issue (Scenario 96)?",
+        "answer": "For payment gateway scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-097",
+        "topic": "Kiosk Setup",
+        "question": "How do I handle a kiosk setup issue (Scenario 97)?",
+        "answer": "For kiosk setup scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-098",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 98)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-099",
+        "topic": "Hardware Maintenance",
+        "question": "How do I handle a hardware maintenance issue (Scenario 99)?",
+        "answer": "For hardware maintenance scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    },
+    {
+        "faq_id": "FAQ-100",
+        "topic": "General",
+        "question": "How do I handle a general issue (Scenario 100)?",
+        "answer": "For general scenarios like this, please reboot the system. If the problem persists, check the manual or contact support."
+    }
+]

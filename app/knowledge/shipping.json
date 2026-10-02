@@ -1,0 +1,62 @@
+[
+    {
+        "rule_id": "SHP-001",
+        "region": "Region A",
+        "cost": 160,
+        "estimated_days": 3
+    },
+    {
+        "rule_id": "SHP-002",
+        "region": "Region B",
+        "cost": 170,
+        "estimated_days": 3
+    },
+    {
+        "rule_id": "SHP-003",
+        "region": "Region C",
+        "cost": 180,
+        "estimated_days": 11
+    },
+    {
+        "rule_id": "SHP-004",
+        "region": "Region D",
+        "cost": 190,
+        "estimated_days": 6
+    },
+    {
+        "rule_id": "SHP-005",
+        "region": "Region E",
+        "cost": 200,
+        "estimated_days": 7
+    },
+    {
+        "rule_id": "SHP-006",
+        "region": "Region F",
+        "cost": 210,
+        "estimated_days": 9
+    },
+    {
+        "rule_id": "SHP-007",
+        "region": "Region G",
+        "cost": 220,
+        "estimated_days": 3
+    },
+    {
+        "rule_id": "SHP-008",
+        "region": "Region H",
+        "cost": 230,
+        "estimated_days": 5
+    },
+    {
+        "rule_id": "SHP-009",
+        "region": "Region I",
+        "cost": 240,
+        "estimated_days": 14
+    },
+    {
+        "rule_id": "SHP-010",
+        "region": "Region J",
+        "cost": 250,
+        "estimated_days": 7
+    }
+]

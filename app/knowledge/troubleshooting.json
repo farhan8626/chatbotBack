@@ -1,0 +1,152 @@
+[
+    {
+        "issue_id": "TS-001",
+        "symptom": "Card reader not responding on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-002",
+        "symptom": "Power failure on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-003",
+        "symptom": "Card reader not responding on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-004",
+        "symptom": "Card reader not responding on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-005",
+        "symptom": "Power failure on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-006",
+        "symptom": "Power failure on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-007",
+        "symptom": "Network disconnected on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-008",
+        "symptom": "Printer jam on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-009",
+        "symptom": "Printer jam on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-010",
+        "symptom": "Power failure on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-011",
+        "symptom": "Power failure on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-012",
+        "symptom": "Network disconnected on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-013",
+        "symptom": "Network disconnected on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-014",
+        "symptom": "Network disconnected on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-015",
+        "symptom": "Network disconnected on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-016",
+        "symptom": "Screen freezing on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-017",
+        "symptom": "Power failure on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-018",
+        "symptom": "Screen freezing on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-019",
+        "symptom": "Card reader not responding on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-020",
+        "symptom": "Card reader not responding on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-021",
+        "symptom": "Card reader not responding on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-022",
+        "symptom": "Network disconnected on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-023",
+        "symptom": "Printer jam on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-024",
+        "symptom": "Card reader not responding on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-025",
+        "symptom": "Card reader not responding on unit type C",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-026",
+        "symptom": "Screen freezing on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-027",
+        "symptom": "Screen freezing on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-028",
+        "symptom": "Card reader not responding on unit type A",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-029",
+        "symptom": "Printer jam on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    },
+    {
+        "issue_id": "TS-030",
+        "symptom": "Power failure on unit type B",
+        "resolution": "Step 1: Restart. Step 2: Check cables. Step 3: Run diagnostic tool 4. If unresolved, escalate ticket."
+    }
+]

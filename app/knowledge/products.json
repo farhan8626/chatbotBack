@@ -1,0 +1,242 @@
+[
+    {
+        "product_id": "PRD-1001",
+        "name": "Quantan Printing Pro V2",
+        "category": "Printing Kiosk",
+        "description": "High performance printing kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 4551,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1002",
+        "name": "Quantan Information Pro V1",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 1773,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1003",
+        "name": "Quantan Payment Pro V1",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2212,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1004",
+        "name": "Quantan Information Pro V2",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3188,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1005",
+        "name": "Quantan Information Pro V1",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3503,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1006",
+        "name": "Quantan Payment Pro V1",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2549,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1007",
+        "name": "Quantan Information Pro V1",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3493,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1008",
+        "name": "Quantan Printing Pro V4",
+        "category": "Printing Kiosk",
+        "description": "High performance printing kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2491,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1009",
+        "name": "Quantan Payment Pro V2",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 4817,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1010",
+        "name": "Quantan Information Pro V4",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 1694,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1011",
+        "name": "Quantan Printing Pro V1",
+        "category": "Printing Kiosk",
+        "description": "High performance printing kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2605,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1012",
+        "name": "Quantan Payment Pro V4",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 1943,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1013",
+        "name": "Quantan Information Pro V1",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3025,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1014",
+        "name": "Quantan Payment Pro V4",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2209,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1015",
+        "name": "Quantan Payment Pro V3",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 4746,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1016",
+        "name": "Quantan Payment Pro V4",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3689,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1017",
+        "name": "Quantan Information Pro V4",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 4249,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1018",
+        "name": "Quantan Printing Pro V1",
+        "category": "Printing Kiosk",
+        "description": "High performance printing kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 4477,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1019",
+        "name": "Quantan Information Pro V2",
+        "category": "Information Kiosk",
+        "description": "High performance information kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 3716,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    },
+    {
+        "product_id": "PRD-1020",
+        "name": "Quantan Payment Pro V2",
+        "category": "Payment Kiosk",
+        "description": "High performance payment kiosk designed for high-traffic areas. Features industrial grade components.",
+        "price": 2137,
+        "features": [
+            "Touchscreen",
+            "Thermal Printer",
+            "Card Reader"
+        ]
+    }
+]

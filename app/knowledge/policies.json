@@ -1,0 +1,77 @@
+[
+    {
+        "policy_id": "POL-001",
+        "name": "Corporate Policy 1",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-002",
+        "name": "Corporate Policy 2",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-003",
+        "name": "Corporate Policy 3",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-004",
+        "name": "Corporate Policy 4",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-005",
+        "name": "Corporate Policy 5",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-006",
+        "name": "Corporate Policy 6",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-007",
+        "name": "Corporate Policy 7",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-008",
+        "name": "Corporate Policy 8",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-009",
+        "name": "Corporate Policy 9",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-010",
+        "name": "Corporate Policy 10",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-011",
+        "name": "Corporate Policy 11",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-012",
+        "name": "Corporate Policy 12",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-013",
+        "name": "Corporate Policy 13",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-014",
+        "name": "Corporate Policy 14",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    },
+    {
+        "policy_id": "POL-015",
+        "name": "Corporate Policy 15",
+        "details": "Quantan Technologies adheres to strict guidelines regarding data privacy and SLA uptimes."
+    }
+]

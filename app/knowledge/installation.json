@@ -1,0 +1,102 @@
+[
+    {
+        "step_number": 1,
+        "task": "Phase 1 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 19 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 2,
+        "task": "Phase 2 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 28 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 3,
+        "task": "Phase 3 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 19 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 4,
+        "task": "Phase 4 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 23 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 5,
+        "task": "Phase 5 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 22 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 6,
+        "task": "Phase 6 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 20 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 7,
+        "task": "Phase 7 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 15 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 8,
+        "task": "Phase 8 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 27 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 9,
+        "task": "Phase 9 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 23 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 10,
+        "task": "Phase 10 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 27 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 11,
+        "task": "Phase 11 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 30 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 12,
+        "task": "Phase 12 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 26 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 13,
+        "task": "Phase 13 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 16 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 14,
+        "task": "Phase 14 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 30 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 15,
+        "task": "Phase 15 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 15 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 16,
+        "task": "Phase 16 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 20 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 17,
+        "task": "Phase 17 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 27 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 18,
+        "task": "Phase 18 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 25 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 19,
+        "task": "Phase 19 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 23 Nm torque before powering on the mainboard."
+    },
+    {
+        "step_number": 20,
+        "task": "Phase 20 of Hardware Assembly",
+        "instruction": "Ensure all structural bolts are tightened to 21 Nm torque before powering on the mainboard."
+    }
+]
