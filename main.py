@@ -7,6 +7,9 @@ from slowapi.errors import RateLimitExceeded
 from app.api.router import api_router
 from app.knowledge.loader import knowledge_base
 
+from app.database.database import engine 
+from app.models.chat import Base
+
 # Initialize Rate Limiter (limits based on User IP)
 limiter = Limiter(key_func=get_remote_address)
 
