@@ -16,3 +16,4 @@ groq
 mcp
 python-dotenv
 slowapi
+cryptography
