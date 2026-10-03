@@ -9,7 +9,8 @@ load_dotenv()
 # mysql+pymysql://user:password@localhost:3306/quantan_db
 SQLALCHEMY_DATABASE_URL = os.getenv(
     "DATABASE_URL", 
-    "mysql+pymysql://root:password@localhost:3306/quantan_db" # Fallback/Default
+    # "mysql+pymysql://root:password@localhost:3306/quantan_db" # Fallback/Default
+    "mysql+mysqlconnector://2DhWaDab2Sziqqy.root:<PASSWORD>@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/sys" # Fallback/Default
 )
 
 engine = create_engine(
