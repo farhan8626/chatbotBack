@@ -13,27 +13,27 @@ from app.models.chat import Base
 # Initialize Rate Limiter (limits based on User IP)
 limiter = Limiter(key_func=get_remote_address)
 
-# @asynccontextmanager
-# async def lifespan(app: FastAPI):
-#     # This runs when the server starts up
-#     print("Starting up Quantan AI Backend...")
-#     knowledge_base.load_all()
-#     yield
-#     # This runs when the server shuts down
-#     print("Shutting down Quantan AI Backend...")
-
-
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    # This runs when the server starts up
     print("Starting up Quantan AI Backend...")
-    
-    # 1. Create all database tables if they do not exist
-    Base.metadata.create_all(bind=engine)
-    
-    # 2. Load the RAG JSON files
     knowledge_base.load_all()
     yield
+    # This runs when the server shuts down
     print("Shutting down Quantan AI Backend...")
+
+
+# @asynccontextmanager
+# async def lifespan(app: FastAPI):
+#     print("Starting up Quantan AI Backend...")
+    
+#     # 1. Create all database tables if they do not exist
+#     Base.metadata.create_all(bind=engine)
+    
+#     # 2. Load the RAG JSON files
+#     knowledge_base.load_all()
+#     yield
+#     print("Shutting down Quantan AI Backend...")
 
 app = FastAPI(
     title="Quantan AI Support API",

@@ -1,4 +1,5 @@
 import os
+import pymysql
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, DeclarativeBase
 from dotenv import load_dotenv
@@ -9,8 +10,10 @@ load_dotenv()
 # mysql+pymysql://user:password@localhost:3306/quantan_db
 SQLALCHEMY_DATABASE_URL = os.getenv(
     "DATABASE_URL", 
+    connect_args={"ssl": {}} 
     # "mysql+pymysql://root:password@localhost:3306/quantan_db" # Fallback/Default
-    "mysql+mysqlconnector://2DhWaDab2Sziqqy.root:<PASSWORD>@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/sys" # Fallback/Default
+    # "mysql+mysqlconnector://2DhWaDab2Sziqqy.root:<PASSWORD>@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/sys" # Fallback/Default
+#   " mysql+pymysql://4Sotxxejj9pN3Dx.root:eLatc68bmbvouP6P@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/sys"
 )
 
 engine = create_engine(
