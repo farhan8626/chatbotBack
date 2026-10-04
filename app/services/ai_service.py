@@ -11,9 +11,9 @@ class AIService:
             print("WARNING: GROQ_API_KEY is missing in .env")
         
         self.client = AsyncGroq(api_key=api_key)
-        # self.model = "llama-3.3-70b-versatile"
+        self.model = "llama-3.3-70b-versatile"
         # self.model = "llama-3.1-8b-instant"
-        self.model = "gemma2-9b-it"
+        # self.model = "gemma2-9b-it"
         
         self.system_prompt = self._load_prompt("system_prompt.txt")
         self.guardrails = self._load_prompt("guardrails.txt")
