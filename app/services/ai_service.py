@@ -13,7 +13,7 @@ class AIService:
         self.client = AsyncGroq(api_key=api_key)
         # self.model = "llama-3.3-70b-versatile"
         # self.model = "llama-3.1-8b-instant"
-        self.model = "llama-3.1-8b-instant"
+        self.model = "llama3-8b-8192"
         
         self.system_prompt = self._load_prompt("system_prompt.txt")
         self.guardrails = self._load_prompt("guardrails.txt")
